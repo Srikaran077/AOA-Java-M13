@@ -1,6 +1,6 @@
 # EX 3C Tug of War problem - Backtracking.
 
-## DATE: 16-09-2026
+## DATE: 11-08-2026
 # Name  : Srikaran M
 # Reg no: 212223040206
 
